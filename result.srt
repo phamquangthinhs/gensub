@@ -1,0 +1,708 @@
+1
+00:00:03,970 --> 00:00:04,990
+Welcome to Motif.
+
+2
+00:00:05,110 --> 00:00:06,358
+My name is Thomas.
+
+3
+00:00:06,514 --> 00:00:10,038
+Here we will be learning how to use the custom
+
+4
+00:00:10,124 --> 00:00:13,258
+audiences and the lookalike audiences that we've just created.
+
+5
+00:00:13,354 --> 00:00:15,020
+So we will go to create.
+
+6
+00:00:15,890 --> 00:00:18,630
+We will always use these for conversion adverts.
+
+7
+00:00:19,250 --> 00:00:20,874
+So go ahead and select that.
+
+8
+00:00:20,972 --> 00:00:21,978
+We want to make sure the
+
+9
+00:00:22,004 --> 00:00:23,982
+campaign budget optimization is turned off.
+
+10
+00:00:24,056 --> 00:00:25,040
+Here it is.
+
+11
+00:00:27,990 --> 00:00:30,000
+We will then select the ad set.
+
+12
+00:00:37,510 --> 00:00:39,158
+We will then select the Pixel that we
+
+13
+00:00:39,184 --> 00:00:43,082
+want to use is this Pixel and we
+
+14
+00:00:43,096 --> 00:00:47,298
+will select the conversion event of purchase.
+
+15
+00:00:47,394 --> 00:00:49,502
+Now you will notice that on this account,
+
+16
+00:00:49,576 --> 00:00:51,954
+as this is just an example, I haven't
+
+17
+00:00:52,002 --> 00:00:57,102
+actually sold anything on this Pixel.
+
+18
+00:00:57,186 --> 00:00:59,680
+So it's read it out, it's red.
+
+19
+00:01:01,630 --> 00:01:03,014
+Normally you won't see that.
+
+20
+00:01:03,052 --> 00:01:05,210
+Normally it will be green if you've had purchases.
+
+21
+00:01:05,590 --> 00:01:08,534
+But nonetheless, we can still explain and
+
+22
+00:01:08,572 --> 00:01:11,534
+show how custom audiences are used.
+
+23
+00:01:11,632 --> 00:01:15,026
+So if we click here, you will get a list
+
+24
+00:01:15,088 --> 00:01:17,730
+of all of the custom audiences that we've just created.
+
+25
+00:01:17,790 --> 00:01:21,302
+So here's the view content for the campaign in the
+
+26
+00:01:21,316 --> 00:01:25,434
+last three days if you're using a lookalike audience.
+
+27
+00:01:25,482 --> 00:01:28,180
+So let's select the lookalike audience United States.
+
+28
+00:01:29,170 --> 00:01:30,734
+Now we will see that it says
+
+29
+00:01:30,772 --> 00:01:32,714
+the potential reaches fewer than 1000 people.
+
+30
+00:01:32,752 --> 00:01:34,730
+It probably hasn't built that audience yet.
+
+31
+00:01:34,780 --> 00:01:38,318
+And also crucially, I have set my location to
+
+32
+00:01:38,344 --> 00:01:41,390
+the United Kingdom, whereas this is US United States.
+
+33
+00:01:41,440 --> 00:01:42,914
+So the first thing to do is to make
+
+34
+00:01:42,952 --> 00:01:46,898
+sure that you're running to people living in this
+
+35
+00:01:46,924 --> 00:01:50,682
+location and then browse and then go to countries.
+
+36
+00:01:50,766 --> 00:01:54,686
+And for this one we would Select United States.
+
+37
+00:01:54,808 --> 00:01:59,342
+We turn off United Kingdom and it
+
+38
+00:01:59,356 --> 00:02:01,600
+has compiled the audience 2 million people.
+
+39
+00:02:04,790 --> 00:02:07,302
+I normally leave this for the
+
+40
+00:02:07,316 --> 00:02:09,690
+lookalike audiences because Facebook is already
+
+41
+00:02:09,800 --> 00:02:11,922
+determining what it likes to see.
+
+42
+00:02:11,996 --> 00:02:15,380
+However, don't forget if you are running anything related to
+
+43
+00:02:16,190 --> 00:02:19,662
+alcohol or anything adult at all, it's always best to
+
+44
+00:02:19,676 --> 00:02:23,982
+go to 22 because the legal drinking age is 21.
+
+45
+00:02:24,056 --> 00:02:26,478
+Check this because each country is different.
+
+46
+00:02:26,564 --> 00:02:28,974
+Some countries, some Scandinavian countries is
+
+47
+00:02:29,012 --> 00:02:32,334
+completely prohibited to advertise some things.
+
+48
+00:02:32,492 --> 00:02:34,098
+Every country in the world will
+
+49
+00:02:34,124 --> 00:02:36,586
+have different things that are prohibited.
+
+50
+00:02:36,658 --> 00:02:42,738
+So make sure that you know exactly what the rules are.
+
+51
+00:02:42,824 --> 00:02:46,350
+It's all in the advertising guidelines on Facebook.
+
+52
+00:02:47,570 --> 00:02:50,790
+I will still change the placements,
+
+53
+00:02:52,370 --> 00:02:53,938
+especially for a look alike.
+
+54
+00:02:54,034 --> 00:02:58,554
+I will remove desktop and I will
+
+55
+00:02:58,592 --> 00:03:00,630
+remove all of these other placements.
+
+56
+00:03:01,670 --> 00:03:02,718
+Easy way of doing it.
+
+57
+00:03:02,744 --> 00:03:04,314
+There is to click there, remove them all
+
+58
+00:03:04,352 --> 00:03:06,678
+and then add back in Facebook newsfeed, which
+
+59
+00:03:06,704 --> 00:03:07,566
+is the one that we want.
+
+60
+00:03:07,628 --> 00:03:09,860
+Everything else is not so good.
+
+61
+00:03:14,490 --> 00:03:16,762
+So that is the basic you see that
+
+62
+00:03:16,776 --> 00:03:19,186
+the audience reaches dropped down to 1.4 million
+
+63
+00:03:19,248 --> 00:03:23,650
+now because we have selected only Facebook newsfeed
+
+64
+00:03:24,930 --> 00:03:27,214
+and people living only in the United States.
+
+65
+00:03:27,312 --> 00:03:29,758
+That's how you would set up for a
+
+66
+00:03:29,784 --> 00:03:32,654
+lookalike audience and you would set the budget
+
+67
+00:03:32,702 --> 00:03:34,270
+in the same way that you normally do.
+
+68
+00:03:34,320 --> 00:03:40,558
+So whether you're running at $5 or
+
+69
+00:03:40,644 --> 00:03:44,326
+whatever, $10, it's all done here.
+
+70
+00:03:44,388 --> 00:03:46,402
+You can select that I always
+
+71
+00:03:46,476 --> 00:03:48,300
+start the advert the next day.
+
+72
+00:03:52,210 --> 00:03:54,890
+My advert account is set to Pacific Time
+
+73
+00:03:54,940 --> 00:03:56,370
+even though I'm in the United Kingdom.
+
+74
+00:03:56,430 --> 00:03:58,934
+So wherever you're always set to the next
+
+75
+00:03:58,972 --> 00:04:00,938
+day at midnight, you can choose this when
+
+76
+00:04:00,964 --> 00:04:02,558
+you first set up the ad account.
+
+77
+00:04:02,704 --> 00:04:04,190
+After that, you can't change it.
+
+78
+00:04:04,240 --> 00:04:07,934
+Eastern Time is meant to be quite a good
+
+79
+00:04:07,972 --> 00:04:10,646
+one to pick, although I haven't tested them all.
+
+80
+00:04:10,708 --> 00:04:12,566
+Pacific Time seems to work well for me.
+
+81
+00:04:12,628 --> 00:04:13,862
+Please pick whatever you want if
+
+82
+00:04:13,876 --> 00:04:16,346
+you haven't already selected one.
+
+83
+00:04:16,408 --> 00:04:18,158
+If you have, then you can't change it.
+
+84
+00:04:18,184 --> 00:04:20,550
+So I wouldn't worry about things that you can't worry
+
+85
+00:04:20,610 --> 00:04:22,742
+about or change where you worry about them, but you
+
+86
+00:04:22,756 --> 00:04:24,880
+can't change them, so don't worry about them.
+
+87
+00:04:25,330 --> 00:04:28,118
+And that is very simply how you
+
+88
+00:04:28,144 --> 00:04:32,130
+would select to use a lookalike audience.
+
+89
+00:04:32,310 --> 00:04:35,020
+And that is it.
+
+90
+00:04:38,330 --> 00:04:41,780
+For a custom audience, it's exactly the same.
+
+91
+00:04:42,290 --> 00:04:47,122
+So let's discard drafts because I'm
+
+92
+00:04:47,146 --> 00:04:48,210
+not going to run anything.
+
+93
+00:04:48,380 --> 00:04:50,370
+I'm just showing how it works.
+
+94
+00:04:50,480 --> 00:04:52,640
+So it'd be conversions, correct.
+
+95
+00:04:54,530 --> 00:04:59,158
+We go into the ad set, we select purchase.
+
+96
+00:04:59,314 --> 00:05:00,718
+You can try add to cart.
+
+97
+00:05:00,754 --> 00:05:04,160
+I always run to purchase, even if it's in red,
+
+98
+00:05:04,970 --> 00:05:07,350
+which it wouldn't be if you're running an advert account.
+
+99
+00:05:07,400 --> 00:05:11,658
+This is just because this is a dummy Pixel, for example,
+
+100
+00:05:11,804 --> 00:05:14,600
+on an advert account that I don't use very often.
+
+101
+00:05:16,310 --> 00:05:19,446
+Now for retargeting, we will set the budget quite low.
+
+102
+00:05:19,508 --> 00:05:21,450
+You can go as low as one dollars
+
+103
+00:05:21,500 --> 00:05:25,882
+a day, anything between one and $5 depending
+
+104
+00:05:25,906 --> 00:05:29,227
+on how big you think the audience is. $2.
+
+105
+00:05:29,237 --> 00:05:31,400
+$50 is something I often use here.
+
+106
+00:05:34,230 --> 00:05:34,954
+Okay.
+
+107
+00:05:35,112 --> 00:05:36,730
+Next day, midnight.
+
+108
+00:05:38,190 --> 00:05:41,926
+Now in the custom audiences, this time we'll select
+
+109
+00:05:41,988 --> 00:05:46,342
+custom audience and we will select everybody that has
+
+110
+00:05:46,416 --> 00:05:49,560
+viewed the content, viewed the campaign name.
+
+111
+00:05:50,250 --> 00:05:53,110
+So this would be everybody that had viewed a campaign.
+
+112
+00:05:53,610 --> 00:05:56,690
+So I would have selected the campaign URL
+
+113
+00:05:56,750 --> 00:05:59,220
+name there in the last 30 days.
+
+114
+00:05:59,910 --> 00:06:03,790
+And now the powerful part, if we
+
+115
+00:06:03,900 --> 00:06:10,090
+exclude we exclude everybody that's purchased.
+
+116
+00:06:10,890 --> 00:06:14,038
+So everybody that's viewed you'd set up
+
+117
+00:06:14,064 --> 00:06:17,100
+the name, this would be your product.
+
+118
+00:06:17,610 --> 00:06:20,114
+Excluding everybody that's purchased.
+
+119
+00:06:20,282 --> 00:06:21,694
+That's how you set it up.
+
+120
+00:06:21,792 --> 00:06:24,190
+Exclude the people that have purchased that
+
+121
+00:06:24,240 --> 00:06:26,926
+campaign in the last 30 days.
+
+122
+00:06:26,988 --> 00:06:29,098
+Now you can run to view content.
+
+123
+00:06:29,184 --> 00:06:30,298
+We've covered all of this.
+
+124
+00:06:30,324 --> 00:06:31,834
+You can do three day, five day.
+
+125
+00:06:31,872 --> 00:06:33,142
+You can include an offer.
+
+126
+00:06:33,276 --> 00:06:35,998
+But the targeting, this is how it's all set up.
+
+127
+00:06:36,084 --> 00:06:38,580
+I normally leave this completely wide open.
+
+128
+00:06:39,270 --> 00:06:42,214
+And because this is retargeting, I
+
+129
+00:06:42,252 --> 00:06:45,938
+often leave the placement on automatic.
+
+130
+00:06:46,034 --> 00:06:48,814
+So it will be shown across everywhere that
+
+131
+00:06:48,852 --> 00:06:51,650
+it can be shown because they've already clicked.
+
+132
+00:06:51,830 --> 00:06:53,940
+They've already clicked on my product.
+
+133
+00:06:54,390 --> 00:06:56,578
+Now that's how I would set
+
+134
+00:06:56,604 --> 00:06:58,514
+up that's a campaign retargeting.
+
+135
+00:06:58,562 --> 00:07:00,586
+So this ad and add to this one.
+
+136
+00:07:00,768 --> 00:07:03,958
+This product would already be running and I would
+
+137
+00:07:03,984 --> 00:07:08,318
+be excluding the people that had bought and retargeting
+
+138
+00:07:08,354 --> 00:07:11,350
+the people that are viewed but not purchased.
+
+139
+00:07:11,670 --> 00:07:16,198
+Now, what you can also do is remove these so that
+
+140
+00:07:16,224 --> 00:07:19,150
+one I would normally start running you'd make the advert but
+
+141
+00:07:19,200 --> 00:07:23,998
+here I would want to re target everybody that's engaged with
+
+142
+00:07:24,024 --> 00:07:29,098
+my page over the last 365 days and the way that
+
+143
+00:07:29,124 --> 00:07:32,122
+I would do that is I select that there I could
+
+144
+00:07:32,196 --> 00:07:36,454
+exclude the people that have purchased the product that I'm running
+
+145
+00:07:36,492 --> 00:07:39,958
+to let's do that so that's everybody that has engaged in
+
+146
+00:07:39,984 --> 00:07:44,294
+any way with my page in the last 365 days Excluding
+
+147
+00:07:44,342 --> 00:07:47,422
+everybody that had purchased the item in question the campaign in
+
+148
+00:07:47,436 --> 00:07:51,322
+question location UK what I want to do here is I
+
+149
+00:07:51,336 --> 00:07:57,418
+would change this to worldwide so that everybody that has Let
+
+150
+00:07:57,444 --> 00:08:03,022
+me see if this will have to remove it select all right.
+
+151
+00:08:03,096 --> 00:08:08,758
+Worldwide people living worldwide everybody in the world that
+
+152
+00:08:08,784 --> 00:08:11,950
+has engaged with my page now I will change
+
+153
+00:08:12,000 --> 00:08:15,074
+it to manual placements because I like only Facebook
+
+154
+00:08:15,122 --> 00:08:20,902
+newsfeed on mobile you can test other placements of
+
+155
+00:08:20,916 --> 00:08:23,878
+course but when I first started out I always
+
+156
+00:08:23,964 --> 00:08:27,550
+run to this unless it's a retargeting of people
+
+157
+00:08:27,600 --> 00:08:31,898
+that have at least viewed the content so that's
+
+158
+00:08:31,934 --> 00:08:39,278
+how this would be done turn these off okay.
+
+159
+00:08:39,364 --> 00:08:41,282
+Ignore all of this just leave it
+
+160
+00:08:41,296 --> 00:08:43,262
+in default don't mess with it.
+
+161
+00:08:43,336 --> 00:08:47,114
+You can test different settings down there but I just leave
+
+162
+00:08:47,152 --> 00:08:51,760
+it I wouldn't worry now we're worldwide everyone in the world
+
+163
+00:08:52,930 --> 00:08:57,986
+Zoom out there we are everyone that's engaged with your page
+
+164
+00:08:58,108 --> 00:09:01,982
+and we want to set the budget here a little higher
+
+165
+00:09:02,116 --> 00:09:05,558
+because depending on the size of the audience that you've got
+
+166
+00:09:05,704 --> 00:09:09,398
+So I would say somewhere around $5 normally works depending on
+
+167
+00:09:09,424 --> 00:09:12,630
+how big your audience is it's not showing me the audience
+
+168
+00:09:12,690 --> 00:09:15,698
+here Because this is just a dummy audience that I set
+
+169
+00:09:15,724 --> 00:09:19,502
+up for a page that I'm not using and that's exactly
+
+170
+00:09:19,576 --> 00:09:20,438
+how it'd be done.
+
+171
+00:09:20,524 --> 00:09:23,946
+Your conversion event is still purchased and you're targeting
+
+172
+00:09:24,018 --> 00:09:27,122
+everybody that is engaged with your page Excluding everybody
+
+173
+00:09:27,196 --> 00:09:30,198
+that had purchased the campaign in the last 180
+
+174
+00:09:30,234 --> 00:09:32,438
+days so go back and watch the other video
+
+175
+00:09:32,524 --> 00:09:36,986
+on how to set up custom audiences which is
+
+176
+00:09:37,108 --> 00:09:41,550
+in the training course. Okay. Excellent.
+
+177
+00:09:41,610 --> 00:09:42,260
+Thank you very much.
+
